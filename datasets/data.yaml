@@ -1,0 +1,13 @@
+names:
+- niki
+nc: 1
+path: d:\Vika\part_2\hw3\datasets
+roboflow:
+  license: CC BY 4.0
+  project: hw3-egvpy
+  url: https://universe.roboflow.com/teenwolf/hw3-egvpy/dataset/1
+  version: 1
+  workspace: teenwolf
+test: ../test/images
+train: images/train
+val: images/val
